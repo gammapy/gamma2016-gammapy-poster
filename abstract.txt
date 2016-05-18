@@ -1,0 +1,14 @@
+Gammapy - A Python package for gamma-ray astronomy
+
+Johannes King, Lea Jouvin, Axel Donath, Christoph Deil, Dirk Lennarz, Ellis
+Owen, Jonathan Harris, Luigi Tibaldo, Manuel Paz Arribas, Olga Vorokh, Regis
+Terrier, Rolf Bühler, Stefan Klepser, Victor Zabalza, Brigitta Sipocz
+
+Gammapy is an open-source Python package for gamma-ray astronomy. It is an
+in-development affiliated package of Astropy that builds on the core scientific
+Python stack (Numpy, Scipy, Astropy) to provide tools to simulate and analyse
+the gamma-ray sky for imaging atmospheric Cherenkov telescopes (IACTs) such as
+H.E.S.S., VERITAS, MAGIC and CTA as well as other gamma-ray telescopes (e.g.
+HAWC and Fermi-LAT). We will give an overview of Gammapy and highlight new
+features for IACT data handling, background modeling, source detection as well
+as image and spectral analysis.

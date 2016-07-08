@@ -1,0 +1,44 @@
+Author affiliations
+-------------------
+
+Here I'm collecting affiliations for co-authors for the poster and proceeding.
+
+Authors
++++++++
+
+- Christoph Deil (mpik)
+- Johannes King (mpik)
+- Lea Jouvin (apc)
+- Axel Donath (mpik)
+- Dirk Lennarz (atlanta)
+- Ellis Owen (ucl)
+- Jonathan Harris (jon)
+- Luigi Tibaldo (mpik)
+- Manuel Paz Arribas (humboldt)
+- Olga Vorokh (olga)
+- Regis Terrier (apc)
+- Julien Lefaucheur (obsparis)
+- Domenico Tiziani (erlangen)
+- Helen Poon (mpik)
+- Nachiketa Chakraborty (mpik)
+- Rolf Bühler (desy)
+- Stefan Klepser (desy)
+- Victor Zabalza (victor)
+- Brigitta Sipocz (brititta1, brigitta2)
+
+Institutes
+++++++++++
+
+- mpik - Max-Planck-Institut f\"{u}r Kernphysik, Heidelberg, Germany
+- apc - APC, University of Paris 7, France
+- obsparis - LUTH, Observatoire de Paris, Meudon, France
+- atlanta - School of Physics and Center for Relativistic Astrophysics, Georgia and Institute of Technology, Atlanta, GA, USA
+- ucl - UCL-MSSL, Dorking, United Kingdom
+- jon - Department of Physics, Durham University, South Road, Durham, DH1 3LE, UK
+- humboldt - Humboldt University, Berlin, Germany
+- olga - Belarusian State University, Belarus, Minsk
+- erlangen - FAU, Erlangen, Germany
+- desy - DESY, Zeuthen, Germany
+- victor - TODO
+- brigitta1 - Centre for Astrophysics Research, University of Hertfordshire, College Lane, Hatfield, AL10 9AB, UK
+- brigitta2 - Institute of Astronomy, University of Cambridge, Madingley Road, Cambridge, CB3 0HA, UK

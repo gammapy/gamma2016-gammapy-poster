@@ -1,9 +1,9 @@
 Gammapy - A Python package for gamma-ray astronomy
 
-Johannes King, Lea Jouvin, Axel Donath, Christoph Deil, Dirk Lennarz, Ellis
+Christoph Deil, Johannes King, Lea Jouvin, Axel Donath, Dirk Lennarz, Ellis
 Owen, Jonathan Harris, Luigi Tibaldo, Manuel Paz Arribas, Olga Vorokh, Regis
-Terrier, Rolf Bühler, Stefan Klepser, Victor Zabalza, Brigitta Sipocz,
-Julien Lefaucheur, Helen Poon
+Terrier, Julien Lefaucheur, Domenico Tiziani, Helen Poon, Nachiketa Chakraborty,
+Rolf Bühler, Stefan Klepser, Victor Zabalza, Brigitta Sipocz
 
 Gammapy is an open-source Python package for gamma-ray astronomy. It is an
 in-development affiliated package of Astropy that builds on the core scientific
